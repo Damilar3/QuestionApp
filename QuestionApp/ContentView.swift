@@ -54,7 +54,7 @@ struct ContentView: View {
                     
                     Button("Green") {
                         
-                        response = "Phone a friend.."
+                        response = "This is just sad.."
                         
                     }
                     .foregroundColor(.gray)
